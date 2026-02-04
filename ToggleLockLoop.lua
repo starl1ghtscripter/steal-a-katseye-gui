@@ -1,1 +1,1 @@
-game.CoreGui.SAKGUI.Main.LockLoop.Value = not game.CoreGui.SAKGUI.Main.LockLoop.Value
+game.CoreGui.SAKGUI.MAIN.LockLoop.Value = not game.CoreGui.SAKGUI.MAIN.LockLoop.Value
